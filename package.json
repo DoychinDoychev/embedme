@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Utility for embedding markdown tables in other markdown documents",
   "repository": "https://github.com/DoychinDoychev/embedme",
-  "author": "Zak Henry",
+  "author": "Doychin Doychev",
   "license": "MIT",
   "private": false,
   "bin": "./dist/embedme.js",
