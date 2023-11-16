@@ -2,7 +2,7 @@
   "name": "markdown-table-embed",
   "version": "1.0.0",
   "description": "Utility for embedding markdown tables in other markdown documents",
-  "repository": "https://github.com/zakhenry/embedme",
+  "repository": "https://github.com/DoychinDoychev/embedme",
   "author": "Zak Henry",
   "license": "MIT",
   "private": false,
